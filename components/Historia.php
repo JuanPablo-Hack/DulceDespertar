@@ -7,9 +7,9 @@
             </div>
             <div class="col-md-6 ftco-animate makereservation p-4 p-md-5">
                 <div class="heading-section ftco-animate mb-5">
-                    <span class="subheading">This is our secrets</span>
-                    <h2 class="mb-4">Perfect Ingredients</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+                    <span class="subheading">Nuestra Historia</span>
+                    <h2 class="mb-4">Conoce como inicio el proyecto</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In minima sapiente libero! Id pariatur tempore, earum velit laborum magni ducimus maxime officiis quod qui, mollitia quas. Numquam harum laboriosam non?.
                     </p>
                     <p><a href="#" class="btn btn-primary">Learn more</a></p>
                 </div>
